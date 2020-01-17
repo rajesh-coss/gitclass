@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2> MY First javascript </h2>
+<button type = "button"
+onclick = "document.getElementById('demo').innerHTML = Date()">
+Click me to visualise date. </button>
+<p id = "demo"> </p>
+</body>
+</html>
